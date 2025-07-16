@@ -1,4 +1,4 @@
-# 📺 Flipkart TV Web Scraping & Data Analysis Project
+## 📺 Flipkart TV Web Scraping & Data Analysis Project
 
 ## 🔍 Project Overview
 In this project, I collected TV product data from Flipkart using web scraping and analyzed it using Python. The goal was to find patterns in TV features like brand, screen size, price, and ratings.
@@ -59,3 +59,5 @@ Feel free to connect or give feedback!
  • 🔗 LinkedIn
 
  • 📧 Email
+
+---
