@@ -52,12 +52,6 @@ Web_Scraping_Project/
 I'm Ketan Patil, and I enjoy working on real-life data projects using Python.
 This project helped me learn web scraping, data analysis, and visualization.
 
-🔗 GitHub
-🔗 LinkedIn
-📧 Email: ketanspatil2003@gmail.com
-
-
-
 - 🔗 [GitHub](https://github.com/patilketan03)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ketan-patil-812a00248/)  
 - 📧 Email: ketanspatil2003@gmail.com
