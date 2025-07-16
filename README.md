@@ -54,4 +54,5 @@ This project helped me learn web scraping, data analysis, and visualization.
 
 - 🔗 [GitHub](https://github.com/patilketan03)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ketan-patil-812a00248/)
-- 📧 [Email](ketanspatil2003@gmail.com)
+- 📧 [Email](mailto:ketanspatil2003@gmail.com)
+
