@@ -1,11 +1,11 @@
- # 📺 Flipkart TV Web Scraping & Data Analysis Project
+# 📺 Flipkart TV Web Scraping & Data Analysis Project
 
 ## 🔍 Project Overview
 In this project, I collected TV product data from Flipkart using web scraping and analyzed it using Python. The goal was to find patterns in TV features like brand, screen size, price, and ratings.
 
 This project shows how we can use real online data and analyze it using data science tools.
 
---------
+---
 
 ## ⚙️ Tools Used
 
@@ -15,7 +15,7 @@ This project shows how we can use real online data and analyze it using data sci
 - Matplotlib & Seaborn – for visualizing the data  
 - Jupyter Notebook – for writing and running the code  
 
---------
+---
 
 ## 📁 Project Files
 
@@ -26,7 +26,7 @@ Web_Scraping_Project/
 ├── Flipkart_TVs_Cleaning.csv    # Cleaned data
 └── Flipkart_TVs_PPT.pptx        # Summary presentation
 
---------
+---
 
 ## 📊 Analysis Highlights
 
@@ -36,7 +36,7 @@ Web_Scraping_Project/
 - Looked at ratings and customer reviews  
 - Checked TV launch years to find latest trends  
 
---------
+---
 
 ## 📝 Key Findings
 
@@ -45,17 +45,13 @@ Web_Scraping_Project/
 - Many TVs are rated 4 stars or higher  
 - Some brands dominate in certain price ranges  
 
---------
+---
 
 ## 👤 About Me
 
 I'm Ketan Patil, and I enjoy working on real-life data projects using Python.
 This project helped me learn web scraping, data analysis, and visualization.
-Feel free to connect or give feedback!
 
-  🔗 GitHub
-
-  🔗 LinkedIn
-
-  📧 Email
-
+- 🔗 [GitHub](https://github.com/patilketan03)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ketan-patil-812a00248/)  
+- 📧 Email: ketanspatil2003@gmail.com
