@@ -19,12 +19,15 @@ This project shows how we can use real online data and analyze it using data sci
 
 ## 📁 Project Files
 
+---
+
 Web_Scraping_Project/
 │
 ├── Flipkart_TVs.csv             # Raw data from Flipkart
 ├── Flipkart_TVs.ipynb           # Code and analysis
 ├── Flipkart_TVs_Cleaning.csv    # Cleaned data
 └── Flipkart_TVs_PPT.pptx        # Summary presentation
+---
 
 ---
 
@@ -46,12 +49,13 @@ Web_Scraping_Project/
 - Some brands dominate in certain price ranges  
 
 ---
-
 ## 👤 About Me
 
 I'm Ketan Patil, and I enjoy working on real-life data projects using Python.
 This project helped me learn web scraping, data analysis, and visualization.
 
-- 🔗 [GitHub](https://github.com/patilketan03)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ketan-patil-812a00248/)  
+- 🔗 GitHub: https://github.com/patilketan03
+- 🔗 LinkedIn: https://www.linkedin.com/in/ketan-patil-812a00248/ 
 - 📧 Email: ketanspatil2003@gmail.com
+
+
