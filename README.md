@@ -19,12 +19,15 @@ This project shows how we can use real online data and analyze it using data sci
 
 ## 📁 Project Files
 
+---
+
 Web_Scraping_Project/
 │
 ├── Flipkart_TVs.csv             # Raw data from Flipkart
 ├── Flipkart_TVs.ipynb           # Code and analysis
 ├── Flipkart_TVs_Cleaning.csv    # Cleaned data
 └── Flipkart_TVs_PPT.pptx        # Summary presentation
+---
 
 ---
 
